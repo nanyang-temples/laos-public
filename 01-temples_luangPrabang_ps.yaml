@@ -1,49 +1,61 @@
 # nanyangSiteID: ID for nanyang data
 # SimmsNo : Number of the temple in the original project data source provided by Peter Simms
-# notes: remarks in the original project data source provided by Peter Simms 
+# notes: remarks in the original project data source provided by Peter Simms
 # url: link to the https://www.luangprabangculture.com/ site by Peter Simms
+
 - nanyangSiteId: tl-ps-01
-  SimmsNo: '444'
-  notes: 'Built 1737 by Phagna Chanthep. One of the best preserved early style temple
-    buildings.'
+  SimmsNo: 444
+  notes:
+    Built 1737 by Phagna Chanthep. One of the best preserved early style temple
+    buildings.
   url: https://www.luangprabangculture.com/vat-aham.html
+
 - nanyangSiteId: tl-ps-02
-  SimmsNo: '445'
-  notes: 'Built 1563 on the site of King Setthathirath''s palace when he moved the
+  SimmsNo: 445
+  notes: Built 1563 on the site of King Setthathirath's palace when he moved the
     capital of Lan Xang to Vientiane. The only temple to survive unscathed from the
     sacking of Luang Prabang by the Chinese Haw in 1887.The Tree of Life mosaic on
-    the back wall was made by Thao Sin Keo in the 1960''s.'
+    the back wall was made by Thao Sin Keo in the 1960's.
   url: https://www.luangprabangculture.com/vat-xieng-thong.html
+
 - nanyangSiteId: tl-ps-03
-  SimmsNo: '455'
-  notes: 'Built 1773 by Phuan from Xieng Khouang to honour the [earlier] marriage
+  SimmsNo: 455
+  notes: Built 1773 by Phuan from Xieng Khouang to honour the [earlier] marriage
     alliance between Chao Kham Sattha of Xieng Khouang and the daughter of King Inthasom
-    of Luang PrabangWat Khilli is ritually considered the head of the town.'
+    of Luang PrabangWat Khilli is ritually considered the head of the town.
   url: https://www.luangprabangculture.com/vat-souvanna-khilli.html
+
 - nanyangSiteId: tl-ps-04
-  SimmsNo: '461'
-  notes: 'Built 1758, The Temple of Glorious Merit'
+  SimmsNo: 461
+  notes: Built 1758, The Temple of Glorious Merit
   url: https://www.luangprabangculture.com/vat-si-boun-houang.html
+
 - nanyangSiteId: tl-ps-05
-  SimmsNo: '465'
-  notes: 'Built 1763 and named after the benefactor who had the temple built'
+  SimmsNo: 465
+  notes: Built 1763 and named after the benefactor who had the temple built
   url: https://www.luangprabangculture.com/vat-sirimoungkoun.html
+
 - nanyangSiteId: tl-ps-06
-  SimmsNo: '470'
-  notes: 'Funeral Monastery dating from 1480 built by King Souvanna Banlang in honour
+  SimmsNo: 470
+  notes:
+    Funeral Monastery dating from 1480 built by King Souvanna Banlang in honour
     of his father King Chakaphat who died of his wounds after having defeated the
     Vietnamese in battle. Current building is from 18th century with 20th century
-    restorations,'
+    restorations,
   url: https://www.luangprabangculture.com/vat-sop-sickharam.html
+
 - nanyangSiteId: tl-ps-07
-  SimmsNo: '474'
-  notes: Temple of Great Peacefulness. Built in 1718 by nobleman Ta Tiao Hang on the
+  SimmsNo: 474
+  notes:
+    Temple of Great Peacefulness. Built in 1718 by nobleman Ta Tiao Hang on the
     site of an older temple. Restored 1932 and 1957. New wings added in 1964. Standing
     Buddha built 1972-1974. Adjacent sala built 1999-2000.
-  url: ''
+  url: ""
+
 - nanyangSiteId: tl-ps-08
-  SimmsNo: '480'
-  notes: Temple of the pond was built in 1740 by Nai Chao Hang. The pond had been
+  SimmsNo: 480
+  notes:
+    Temple of the pond was built in 1740 by Nai Chao Hang. The pond had been
     considered the eye of the naga which created Mt Phou Si in the centre of Luang
     Prabang. The 211kg Buddha image was bought from Thailand by a rich merchant. The
     statue was planned to go to his town but the raft refused to travel beyond Ban
@@ -51,100 +63,129 @@
     in1774 as well another fire in 1886. The current building dates to 1965 after
     severe storm damage.
   url: https://www.luangprabangculture.com/vat-nong-si-khoun-muang.html
+
 - nanyangSiteId: tl-ps-09
-  SimmsNo: '484'
-  notes: 'Temple of the Bamboo Forest. Established by Phya Samlat in 1815.The richly
+  SimmsNo: 484
+  notes:
+    Temple of the Bamboo Forest. Established by Phya Samlat in 1815.The richly
     decorated front entrance features above the main door three peacocks, possibly
-    a reference to his zodiac birth sign.'
+    a reference to his zodiac birth sign.
   url: https://www.luangprabangculture.com/vat-pa-phai.html
+
 - nanyangSiteId: tl-ps-10
-  SimmsNo: '489'
-  notes: 'Temple of the Melodious Sound named after the sound of its drum. Built 1853
-    by Phanya Sisonsay. [A Luang Prabang love Story, Ratana Koumphon, 2020]'
+  SimmsNo: 489
+  notes:
+    Temple of the Melodious Sound named after the sound of its drum. Built 1853
+    by Phanya Sisonsay. [A Luang Prabang love Story, Ratana Koumphon, 2020]
   url: https://www.luangprabangculture.com/vat-xieng-mouane.html
+
 - nanyangSiteId: tl-ps-11
-  SimmsNo: '495'
-  notes: 'Temple of the Gong''s Core founded 1844 by Phakhu Keo.Chinese figures now
+  SimmsNo: 495
+  notes:
+    Temple of the Gong's Core founded 1844 by Phakhu Keo.Chinese figures now
     guarding the entrance depict two Chinese bodhisattvas; Vajra, the thunderbolt
     representing masculine principles, and Ghanta, the bell, representing feminine
-    principles. They were gifts to the king from the ambassador from Kunming in 1841.'
+    principles. They were gifts to the king from the ambassador from Kunming in 1841.
   url: https://www.luangprabangculture.com/vat-choum-khong.html
+
 - nanyangSiteId: tl-ps-12
-  SimmsNo: '499'
-  notes: 'Built in 1851 As Vat Pa Khe by King Chantharat (r.1850 - 1870) whose remains
+  SimmsNo: 499
+  notes:
+    Built in 1851 As Vat Pa Khe by King Chantharat (r.1850 - 1870) whose remains
     are interred in the Stupa at the front, The temple was to commemorate the arrival
     of a Chinese emissary from Kunming. The temple is built in Thai style and is decorated
-    inside with Thai style murals. Now known as Vat Siphoutthabat, temple of the Buddha''s
-    footprint (Which is located on Mt Phousi above the temple).'
+    inside with Thai style murals. Now known as Vat Siphoutthabat, temple of the Buddha's
+    footprint (Which is located on Mt Phousi above the temple).
   url: https://www.luangprabangculture.com/vat-siphoutthabat.html
+
 - nanyangSiteId: tl-ps-13
-  SimmsNo: '503'
-  notes: 'Monastery of the Flaming Forest built in 1799'
+  SimmsNo: 503
+  notes: Monastery of the Flaming Forest built in 1799
   url: https://www.luangprabangculture.com/vat-pa-fang.html
+
 - nanyangSiteId: tl-ps-14
-  SimmsNo: '505'
-  notes: The Buddhadhamma Centre of Luang Prabang. In the 1960's this building was
+  SimmsNo: 505
+  notes:
+    The Buddhadhamma Centre of Luang Prabang. In the 1960's this building was
     used as a school to teach Pali to monks and novices.
-  url: ''
+  url: ""
+
 - nanyangSiteId: tl-ps-15
-  SimmsNo: '507'
-  notes: 'Founded in 1530.'
+  SimmsNo: 507
+  notes: Founded in 1530.
   url: https://www.luangprabangculture.com/vat-aphay.html
+
 - nanyangSiteId: tl-ps-16
-  SimmsNo: '511'
-  notes: The Temple of the Thornless Bamboo Forest was founded in 1861 by Phaya Si
+  SimmsNo: 511
+  notes:
+    The Temple of the Thornless Bamboo Forest was founded in 1861 by Phaya Si
     Mahanam. It was used as a private chapel by the king. Inside are rare nineteenth
     century murals depicting the humbling of King Jambupati by the Buddha and other
     scenes showing Luang Prabang as a heavenly city receiving Chinese, European and
     Persian visitors. Infamously, the French art historian Henri Parmentier in his
     L'art du Laos described these charming and interesting murals as ridiculous.
   url: https://www.luangprabangculture.com/vat-pa-houak.html
+
 - nanyangSiteId: tl-ps-17
-  SimmsNo: '512'
-  notes: Royal temple dating to 1821. Held the Prabang Buddha image for some years
+  SimmsNo: 512
+  notes:
+    Royal temple dating to 1821. Held the Prabang Buddha image for some years
     after the destruction of Vat Visoun in 1887. During Phi Mai celebrations each
     year the Prabang is bought back to Vat Mai for veneration. Vat Mai was the seat
     of the Lao Supreme Patriarch until 1984.
   url: https://www.luangprabangculture.com/vat-mai.html
+
 - nanyangSiteId: tl-ps-18
-  SimmsNo: '521'
-  notes: 'Victorious Mountain Temple found by King Anourut in 1791. The original sim
+  SimmsNo: 521
+  notes:
+    Victorious Mountain Temple found by King Anourut in 1791. The original sim
     fell into a state of disrepair and was replaced by the current concrete structure
-    in the 1970''s.'
+    in the 1970's.
   url: https://www.luangprabangculture.com/vat-phon-xay.html
+
 - nanyangSiteId: tl-ps-19
-  SimmsNo: '524'
-  notes: 'Established by King Phothisarath (r.1520–1550) as Wat Sisouvanna Devalok
+  SimmsNo: 524
+  notes:
+    Established by King Phothisarath (r.1520–1550) as Wat Sisouvanna Devalok
     to inter the remains of his father King Visoun. The location was chosen in order
-    to eradicate the Ho Phi located there for the city''s guardian spirits Phou Nyeu
-    and Nya Nyeu. The current sim dates to 1822. The Ho Phi is still located here.'
+    to eradicate the Ho Phi located there for the city's guardian spirits Phou Nyeu
+    and Nya Nyeu. The current sim dates to 1822. The Ho Phi is still located here.
   url: https://www.luangprabangculture.com/vat-aham.html
+
 - nanyangSiteId: tl-ps-20
-  SimmsNo: '526'
-  notes: ''
-  url: ''
+  SimmsNo: 526
+  notes: ""
+  url: ""
+
 - nanyangSiteId: tl-ps-21
-  SimmsNo: '527'
-  notes: 'Founded by King Visoun (r.1501-1520) in 1513 to house the Prabang Buddha
+  SimmsNo: 527
+  notes:
+    Founded by King Visoun (r.1501-1520) in 1513 to house the Prabang Buddha
     statue. The original sim was burnt down in 1887. The current sim was built in
-    1898.'
+    1898.
   url: https://www.luangprabangculture.com/vat-visoun.html
+
 - nanyangSiteId: tl-ps-22
-  SimmsNo: '531'
-  notes: 'The Lottery Pavilion is named after a ceremony held in 1548 by King Setthathirat
+  SimmsNo: 531
+  notes:
+    The Lottery Pavilion is named after a ceremony held in 1548 by King Setthathirat
     to select the location of this monastery. The current monastery dates to 1706,
-    funded by Khouane Sene Musa.'
+    funded by Khouane Sene Musa.
   url: https://www.luangprabangculture.com/vat-ho-xieng.html
+
 - nanyangSiteId: tl-ps-23
-  SimmsNo: '535'
-  notes: 'Monastery of the Great Stupa was founded by King Setthathirat in 1548 (Whilst
+  SimmsNo: 535
+  notes:
+    Monastery of the Great Stupa was founded by King Setthathirat in 1548 (Whilst
     he was ruling from Chiang Mai). The temple is closely associated with the Front
     Palace.The remains of Prince Phetsarath and Prince Souvanna Phouma are interred
-    in stupas within the monastery.'
+    in stupas within the monastery.
   url: https://www.luangprabangculture.com/vat-mahathat.html
+
 - nanyangSiteId: tl-ps-24
-  SimmsNo: '542'
-  notes: Founded c.1428 during the reign of Chao Lan Kham Deng (r.1411 - 1428), son
+  SimmsNo: 542
+  notes:
+    Founded c.1428 during the reign of Chao Lan Kham Deng (r.1411 - 1428), son
     of Chao Sam Sen Thai.Chao Lan Kham Deng's ashes are interred here. [Simms 1999]
     The Prabang Buddha was held here from c.1491-1513 after which it was moved to
     Vat Visoun. The temple building was destroyed in 1887. Later the arms of the massive
@@ -153,74 +194,95 @@
     colloquially as The Buddha with no Arms was repaired with concrete.A bronze piece
     of one forearm is now on display in front of the Buddha image.
   url: https://www.luangprabangculture.com/vat-manorom.html
+
 - nanyangSiteId: tl-ps-25
-  SimmsNo: '545'
-  notes: 'The Temple of the Great Stupa was founded on 27 May 1548 by King Setthatirath.
+  SimmsNo: 545
+  notes:
+    The Temple of the Great Stupa was founded on 27 May 1548 by King Setthatirath.
     It was associated with the Main Palace and the king. The current sim and main
     chedi date to 1818 and were drawn by Louis Delaporte when the French Mekong Expedition
-    stopped at Luang Prabang in 1867.'
+    stopped at Luang Prabang in 1867.
   url: https://www.luangprabangculture.com/vat-that-luang.html
+
 - nanyangSiteId: tl-ps-26
-  SimmsNo: '550'
+  SimmsNo: 550
   notes: The Temple of Ten Thousand Rice Fields, founded in 1533.
   url: https://www.luangprabangculture.com/vat-meun-na.html
+
 - nanyangSiteId: tl-ps-27
-  SimmsNo: '556'
-  notes: 'The Temple of Great Lineage founded 1951. The main Buddha image comes from
-    Mueang Yu near Vietnam.'
+  SimmsNo: 556
+  notes:
+    The Temple of Great Lineage founded 1951. The main Buddha image comes from
+    Mueang Yu near Vietnam.
   url: https://www.luangprabangculture.com/vat-phan-luang.html
+
 - nanyangSiteId: tl-ps-28
-  SimmsNo: '560'
-  notes: 'Temple of the Clean Hill'
+  SimmsNo: 560
+  notes: Temple of the Clean Hill
   url: https://www.luangprabangculture.com/vat-phon-sa-at.html
+
 - nanyangSiteId: tl-ps-29
-  SimmsNo: '564'
-  notes: 'This shrine at the top of Mt Phousi is a part of VatThammothayaram.'
+  SimmsNo: 564
+  notes: This shrine at the top of Mt Phousi is a part of VatThammothayaram.
   url: https://www.luangprabangculture.com/vat-thammothayaram.html
+
 - nanyangSiteId: tl-ps-30
-  SimmsNo: '566'
-  notes: 'Once was the temple of the Pha Sanghalat, the Buddhist Supreme Patriarch
-    in Luang Prabang.'
+  SimmsNo: 566
+  notes:
+    Once was the temple of the Pha Sanghalat, the Buddhist Supreme Patriarch
+    in Luang Prabang.
   url: https://www.luangprabangculture.com/vat-tao-hai.html
+
 - nanyangSiteId: tl-ps-31
-  SimmsNo: '570'
-  notes: 'A Lao-Chinese crematorium dating from the 1930''s'
+  SimmsNo: 570
+  notes: A Lao-Chinese crematorium dating from the 1930's
   url: https://www.luangprabangculture.com/sala-tham.html
+
 - nanyangSiteId: tl-ps-32
-  SimmsNo: '572'
-  notes: 'Founded by King Setthathirat in about 1560'
+  SimmsNo: 572
+  notes: Founded by King Setthathirat in about 1560
   url: https://www.luangprabangculture.com/vat-xieng-mene.html
+
 - nanyangSiteId: tl-ps-33
-  SimmsNo: '578'
-  notes: 'This white sim is clearly visible atop a hilll across the Mekong from Luang
+  SimmsNo: 578
+  notes:
+    This white sim is clearly visible atop a hilll across the Mekong from Luang
     Prabang town. The two crumbling chedi behind the sim hold the remains of King
-    Oun Kham and his queen Kammoune.'
+    Oun Kham and his queen Kammoune.
   url: https://www.luangprabangculture.com/vat-chomphet.html
+
 - nanyangSiteId: tl-ps-34
-  SimmsNo: '579'
-  notes: 'Restored during reign of King Anourouth (r.1791 - 1815) . The interior is
+  SimmsNo: 579
+  notes:
+    Restored during reign of King Anourouth (r.1791 - 1815) . The interior is
     decorated with Siamese stye murals depicting 10 Jataka stories. The entrance is
     guarded by paintings of Chinese stye warriors. Formerly used for royal retreats
-    by the king.'
+    by the king.
   url: https://www.luangprabangculture.com/vat-long-khoun.html
+
 - nanyangSiteId: tl-ps-35
-  SimmsNo: '590'
-  notes: ''
-  url: ''
+  SimmsNo: 590
+  notes: ""
+  url: ""
+
 - nanyangSiteId: tl-ps-36
-  SimmsNo: '593'
-  notes: 'Early 19th century royal sponsored forest temple. Has very fine murals depicting
+  SimmsNo: 593
+  notes:
+    Early 19th century royal sponsored forest temple. Has very fine murals depicting
     the Lao legend of Prince Kalaket and his flying horse [FE] but badly in need of
-    restoration work planned for late 2024.'
+    restoration work planned for late 2024.
   url: https://www.luangprabangculture.com/vat-had-siew.html
+
 - nanyangSiteId: tl-ps-37
-  SimmsNo: '599'
-  notes: 'Built during reign of king Anourouth (r.1791 - 1815). Abandoned in 1957
-    before restoration in recent years. This is a forest temple for meditation.'
+  SimmsNo: 599
+  notes: Built during reign of king Anourouth (r.1791 - 1815). Abandoned in 1957
+    before restoration in recent years. This is a forest temple for meditation.
   url: https://www.luangprabangculture.com/vat-kok-pab.html
+
 - nanyangSiteId: tl-ps-38
-  SimmsNo: '604'
-  notes: 'Now called Vat Sisavan Tevalok. Founded by King Phothisarath in 1527 and
+  SimmsNo: 604
+  notes:
+    Now called Vat Sisavan Tevalok. Founded by King Phothisarath in 1527 and
     marks the ritual southern boundary of Luang Prabang. Before 1975 Vat Sanghalok
-    played an important role in Phi Mai (Lao New Year) ceremonies.'
+    played an important role in Phi Mai (Lao New Year) ceremonies.
   url: https://www.luangprabangculture.com/vat-sisavan-tevalok.html
