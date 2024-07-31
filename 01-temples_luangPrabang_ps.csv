@@ -12,28 +12,92 @@
 "tl-ps-11","Vat Choum Khong",102.1367537,19.893204
 "tl-ps-12","Vat Siphoutthabat (Pa Khe)",102.1386051,19.8923628
 "tl-ps-13","Vat Pa Fang",102.1390745,19.89261
-"tl-ps-14","Buddhadhamma Centre",102.1389403,19.8927412
-"tl-ps-15","Vat Aphay",102.1388412,19.8891672
-"tl-ps-16","Vat Pa Houak",102.1360801,19.8909251
-"tl-ps-17","Vat Mai",102.1349917,19.8905793
-"tl-ps-18","Vat Phonxay",102.1329702,19.8904169
-"tl-ps-19","Vat Aham",102.1381811,19.8874923
-"tl-ps-20","Ho Phi Phou Ngeu Ngai Ngeu",102.1379691,19.8877212
-"tl-ps-21","Vat Visoun",102.138253,19.8869828
-"tl-ps-22","Vat Ho Xieng",102.1327237,19.8876343
-"tl-ps-23","Vat Mahathat",102.1324061,19.8873711
-"tl-ps-24","Vat Manorom",102.1331099,19.8825745
-"tl-ps-25","Vat That Luang",102.1296657,19.8829667
-"tl-ps-26","Vat Meunna",102.1411728,19.8854968
-"tl-ps-27","Vat Phan Luang",102.1410043,19.8915183
-"tl-ps-28","Vat Phon Sa-at",102.1464127,19.8959868
-"tl-ps-29","Vat Chom Si",102.1370625,19.8903779
-"tl-ps-30","Vat Tao Hai",102.1464347,19.886641
-"tl-ps-31","Sala Tham",102.1221656,19.8894043
-"tl-ps-32","Vat Xieng Mene",102.1330722,19.8981345
-"tl-ps-33","Vat Chompet",102.1378642,19.9005977
-"tl-ps-34","Vat Long Khoun",102.1400106,19.9014616
-"tl-ps-35","Vat Tham Sakkaline",102.1421512,19.9027841
-"tl-ps-36","Vat Hat Siew",102.1471732,19.9068079
-"tl-ps-37","Vat Kok Pap",102.1526316,19.9102299
-"tl-ps-38","Vat Sanghalok",102.1131997,19.8714396
+"tl-ps-14","Vat Aphay",102.1388412,19.8891672
+"tl-ps-15","Vat Pa Houak",102.1360801,19.8909251
+"tl-ps-16","Vat Mai",102.1349917,19.8905793
+"tl-ps-17","Vat Phonxay",102.1329702,19.8904169
+"tl-ps-18","Vat Aham",102.1381811,19.8874923
+"tl-ps-19","Vat Visoun",102.138253,19.8869828
+"tl-ps-20","Vat Ho Xieng",102.1327237,19.8876343
+"tl-ps-21","Vat Mahathat",102.1324061,19.8873711
+"tl-ps-22","Vat Manorom",102.1331099,19.8825745
+"tl-ps-23","Vat That Luang",102.1296657,19.8829667
+"tl-ps-24","Vat Meunna",102.1411728,19.8854968
+"tl-ps-25","Vat Phan Luang",102.1410043,19.8915183
+"tl-ps-26","Vat Phon Sa-at",102.1464127,19.8959868
+"tl-ps-27","Vat Chom Si",102.1370625,19.8903779
+"tl-ps-28","Vat Tao Hai",102.1464347,19.886641
+"tl-ps-29","Sala Tham",102.1221656,19.8894043
+"tl-ps-30","Vat Xieng Mene",102.1330722,19.8981345
+"tl-ps-31","Vat Chompet",102.1378642,19.9005977
+"tl-ps-32","Vat Long Khoun",102.1400106,19.9014616
+"tl-ps-33","Vat Tham Sakkaline",102.1421512,19.9027841
+"tl-ps-34","Vat Hat Siew",102.1471732,19.9068079
+"tl-ps-35","Vat Kok Pap",102.1526316,19.9102299
+"tl-ps-36","Vat Sanghalok",102.1131997,19.8714396
+"tl-ps-37","Vat Ban Chan Neua",102.111146,19.877909
+"tl-ps-38","Vat Ban Chan Tai",102.104877,19.875708
+"tl-ps-39","Vat Ban Donemai Sisawath",102.173862,19.917383
+"tl-ps-40","Vat Ban Khoy",102.116868,19.874419
+"tl-ps-41","Vat Ban Mueang Khay",101.982438,19.793681
+"tl-ps-42","Vat Ban Muong Khai",102.000451,19.806466
+"tl-ps-43","Vat Ban Na Daed",102.11749,19.840653
+"tl-ps-44","Vat Ban Na Deuy",102.111602,19.856642
+"tl-ps-45","Vat Ban Ou",101.976616,19.777532
+"tl-ps-46","Vat Ban Pak Long",102.036741,19.864155
+"tl-ps-47","Vat Ban Say Lom",102.122275,19.879798
+"tl-ps-48","Vat Ban Sing Phoxai",102.009268,19.831626
+"tl-ps-49","Vat Ban Suan Suwanaram",102.176115,19.920166
+"tl-ps-50","Vat Boupha Vipassnaram",102.14351,19.881853
+"tl-ps-51","Vat Chaturachinda",102.156031,19.889441
+"tl-ps-52","Vat Chom Ngua",102.075376,19.876634
+"tl-ps-53","Vat Don Khoun",102.236962,19.9786
+"tl-ps-54","Vat Haad Hien",102.16918,19.896717
+"tl-ps-55","Vat Kham Phon Xay",102.203979,19.929638
+"tl-ps-56","Vat Khok Va",102.164815,19.910002
+"tl-ps-57","Vat Khom Kwang",102.157901,19.905071
+"tl-ps-58","Vat Khom Sela Sa-at",102.160464,19.906604
+"tl-ps-59","Vat Kiw Nor",102.140973,19.906388
+"tl-ps-60","Wat Lak Paed",102.079152,19.84737
+"tl-ps-61","Vat Muong Kham",102.18085,19.92919
+"tl-ps-62","Vat Na Kham",102.138858,19.911644
+"tl-ps-63","Vat Na Luang",102.135375,19.868125
+"tl-ps-64","Vat Na Xai",102.148504,19.937052
+"tl-ps-65","Vat Naxang",102.126966,19.871441
+"tl-ps-66","Vat Na Xang Veuy",102.14992,19.874988
+"tl-ps-67","Vat Nongkham Xayaram",102.120051,19.874911
+"tl-ps-68","Vat Non Saard",102.005023,19.809906
+"tl-ps-69","Vat Nong Sa Keo",102.148554,19.910821
+"tl-ps-70","Vat Nong Xaykhounsavang",102.154586,19.903014
+"tl-ps-71","Vat Nounsavath",102.198787,19.880195
+"tl-ps-72","Vat Pa Kha Xaiyaram",102.144408,19.893524
+"tl-ps-73","Vat Pa Khok",102.05212,19.82203
+"tl-ps-74","Vat Pak Ou",102.213893,20.053632
+"tl-ps-75","Vat Paksy",101.966025,19.767808
+"tl-ps-76","Vat Pak Xuean",102.245028,19.971002
+"tl-ps-77","Vat Pa Phon Phao",102.150613,19.883156
+"tl-ps-78","Vat Pa Phou Xang",102.161769,19.903126
+"tl-ps-79","Vat Pak Vaed",102.181276,19.76831
+"tl-ps-80","Vat Pa Xa",102.139336,19.869923
+"tl-ps-81","Vat Pha Bat Tai",102.12494,19.882798
+"tl-ps-82","Vat Phan Luang",102.140999,19.891558
+"tl-ps-83","Vat Phanom",102.158064,19.886705
+"tl-ps-84","Vat Pha O",102.22319,19.939865
+"tl-ps-85","Vat Pho Xai",102.10347,19.897034
+"tl-ps-86","Vat Phone Hin",102.16168,19.907159
+"tl-ps-87","Vat Phon Sa-at",102.146391,19.896012
+"tl-ps-88","Vat Phou Kwai",102.146444,19.879524
+"tl-ps-89","Vat Phou Mork",102.117236,19.864661
+"tl-ps-90","Vat Phou Nang",102.127137,19.89737
+"tl-ps-91","Vat Phou Xang Kham",102.183598,19.904001
+"tl-ps-92","Vat Sakaem",102.14576,19.882559
+"tl-ps-93","Vat Tha Paen",101.996571,19.752418
+"tl-ps-94","Vat Thammothayaram",102.138347,19.89138
+"tl-ps-95","Vat Thin Keo",101.994166,19.798162
+"tl-ps-96","Vat U Don ",102.16941,19.913594
+"tl-ps-97","Vat Xang Hai",102.232226,20.003632
+"tl-ps-98","Vat Xang Khong",102.152685,19.901615
+"tl-ps-99","Vat Xieng Kang Bolom",102.132913,19.882431
+"tl-ps-100","Vat Xieng Keo",102.103111,19.869277
+"tl-ps-101","Vat Xieng Leck",102.149152,19.900258
+"tl-ps-102","Vat Xieng Lom",102.236199,19.874044
